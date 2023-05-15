@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building my technical skills in Data Analysis
-- 🌱 I’m currently learning Power BI in EDX 
+- 🌱 I’m currently working on postgresql and mysql flavors
 - 👯 I’m looking to collaborate on everthing data analysis with projects
 - 🤔 I’m looking for help with breaking technical concepts
 - 💬 Ask me about my self-learning journey
